@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidExc2</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="full_name">Full name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="validate">Validate</string>
+    <string name="question">Already have an account ?\u0020</string>
+    <string name="redirect">Login</string>
+    <string name="skip">Skip for now</string>
+</resources>
